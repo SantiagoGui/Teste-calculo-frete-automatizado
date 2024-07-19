@@ -1,4 +1,4 @@
-**"# Teste-calculo-frete-automatizado" **
+**Teste-calculo-frete-automatizado**
 
 Este projeto tem como objetivo automatizar a validação da tela de cálculo de frete no site SuperFrete utilizando o framework de testes Cypress.
 
