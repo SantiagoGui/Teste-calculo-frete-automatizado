@@ -1,0 +1,60 @@
+{
+  "validProduct": {
+    "cepSaida": "08090-284",
+    "cepChegada": "05407-002",
+    "dimensoes": {
+      "altura": 2,
+      "largura": 11,
+      "comprimento": 16
+    }
+  },
+  "invalidProductAlt": {
+     "cepSaida": "08090-284",
+    "cepChegada": "05407-002",
+    "dimensoes": {
+      "altura": 0.3,
+      "largura": 11,
+      "comprimento": 16
+    }
+  },
+
+  "invalidProductLarg": {
+     "cepSaida": "08090-284",
+    "cepChegada": "05407-002",
+    "dimensoes": {
+      "altura": 2,
+      "largura": 7,
+      "comprimento": 16
+    }
+  },
+
+  "invalidProductComp": {
+     "cepSaida": "08090-284",
+    "cepChegada": "05407-002",
+    "dimensoes": {
+      "altura": 2,
+      "largura": 11,
+      "comprimento": 12
+    }
+  },
+
+  "invalidProductSaida": {
+     "cepSaida": " ",
+    "cepChegada": "05407-002",
+    "dimensoes": {
+      "altura": 2,
+      "largura": 11,
+      "comprimento": 16
+    }
+  },
+
+  "invalidProductChegada": {
+     "cepSaida": "08090-284",
+    "cepChegada": " ",
+    "dimensoes": {
+      "altura": 2,
+      "largura": 11,
+      "comprimento": 16
+    }
+  }
+}
